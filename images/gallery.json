@@ -1,0 +1,71 @@
+{
+  "portraits": {
+    "title": "శిల్ప కళాకృతులు",
+    "desc": "ప్రొఫైల్ చిత్రాలు మరియు కళాకృతుల зависимости.",
+    "images": [
+      "assets/images/slipam 1.jpeg"
+    ]
+  },
+  "temples": {
+    "title": "దేవాలయ నిర్మాణాలు",
+    "desc": "వేదోక్త శిల్ప శాస్త్రానుసారం చేపట్టిన ప్రాజెక్టులు.",
+    "images": [
+      "assets/images/banner.jpeg",
+      "assets/images/name board.jpeg"
+    ]
+  },
+  "gurukula": {
+    "title": "గురుకుల శిక్షణ",
+    "desc": "అకాడమీ గురుకులలో బోధించిన సందర్భాలు.",
+    "images": [
+      "assets/images/program.jpeg",
+      "assets/images/discussion.jpeg"
+    ]
+  },
+  "awards": {
+    "title": "సన్మానాలు & పురస్కారాలు",
+    "desc": "గౌరవ పత్రాలు, సత్కారాలు.",
+    "images": [
+      "assets/images/certificate.jpeg"
+    ]
+  },
+  "events": {
+    "title": "యాగాలు & కార్యక్రమాలు",
+    "desc": "విశేష కార్యక్రమాలు, వార్తావివరణలు.",
+    "images": [
+      "assets/images/news.jpeg",
+      "assets/images/news 1.jpeg",
+      "assets/images/program.jpeg"
+    ]
+  },
+  "paintings": {
+    "title": "చిత్రలేఖనం",
+    "desc": "రేఖాచిత్రాలు మరియు చిత్రలేఖన ప్రదర్శన.",
+    "images": [
+      "assets/images/banner.jpeg"
+    ]
+  },
+  "family": {
+    "title": "కుటుంబం",
+    "desc": "పారంపరిక గృహ స్థితి మరియు దినచర్యలు.",
+    "images": [
+      "assets/images/name board.jpeg"
+    ]
+  },
+  "purohitam": {
+    "title": "పౌరోహిత్యం",
+    "desc": "పూజా విధులు, ఉపనయనాలు.",
+    "images": [
+      "assets/images/purohitam.jpeg"
+    ]
+  },
+  "yagnam": {
+    "title": "యాగాలు & కార్యక్రమాలు",
+    "desc": "యజ్ఞ టైమ్లాప్స్ మరియు హవనాలు.",
+    "images": [
+      "assets/images/yagnam 1.jpeg",
+      "assets/images/yagnam 2.jpeg",
+      "assets/images/yagnam 3.jpeg"
+    ]
+  }
+}
